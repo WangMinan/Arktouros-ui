@@ -35,3 +35,4 @@ dist-ssr
 
 # maven
 node
+package-lock.json
